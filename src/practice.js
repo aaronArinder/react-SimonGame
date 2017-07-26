@@ -1,3 +1,5 @@
+//This is miga89's codepen of Simon; using it as a reference for when I get stuck.
+
 
 class Display extends React.Component {
 
