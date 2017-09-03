@@ -5,25 +5,33 @@
 }
 
 #redBox {
-  background-color: red;}
+  background-color: red;
+}
 
 #blueBox {
-  background-color: blue;}
+  background-color: blue;
+}
 
 #yellowBox {
-  background-color: yellow;}
+  background-color: yellow;
+}
 
 #greenBox {
-  background-color: green;}
+  background-color: green;
+}
 
-#illuminatedRedBox{
-  background-color: pink;}
+#illuminatedRedBox {
+  background-color: pink;
+}
 
-#illuminatedBlueBox{
-  background-color: lightblue;}
+#illuminatedBlueBox {
+  background-color: lightblue;
+}
 
-#illuminatedYellowBox{
-  background-color: lightyellow;}
+#illuminatedYellowBox {
+  background-color: lightyellow;
+}
 
-#illuminatedGreenBox{
-  background-color: lightgreen;}
+#illuminatedGreenBox {
+  background-color: lightgreen;
+}
